@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @GILBERTMANOJ
 - 👀 I’m interested in Programming
 - 🌱 I’m currently pursuing B.E Mechanical Engineering
-- 💞️ I’m looking to collaborate on ...
-- 📫 Reach me in gilbertmanojr@gmail.com
+- 💞️ My interest is web development
+- 📫 Email me at gilbertmanojr@gmail.com
 
 <!---
 GILBERTMANOJ/GILBERTMANOJ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
