@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @GILBERTMANOJ
 - 👀 I’m interested in Programming
 - 🌱 I’m currently pursuing B.E Mechanical Engineering
-- 💞️ My interest is web development
+- 💞 constant learning
 - 📫 Email me at gilbertmanojr@gmail.com
 
 <!---
